@@ -1,6 +1,6 @@
 # Restaurant Search/Pricing App - React Native
 
-[React Docs](https://facebook.github.io/react-native/docs/getting-started)
+[React Native Docs](https://facebook.github.io/react-native/docs/getting-started)
 
 ### Run:
 
